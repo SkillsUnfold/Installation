@@ -1,0 +1,39 @@
+# GitHub Pages Configuration
+# Theme Configuration
+theme: jekyll-theme-primer
+
+# Site Settings
+title: Installation Guide
+description: A comprehensive guide for installing bioinformatics tools including WSL2 on Windows and Conda
+author: SkillsUnfold
+email: 
+
+# GitHub Repository
+repository: SkillsUnfold/Installation
+
+# Build Settings
+markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Remote Theme (alternative to theme for GitHub Pages)
+remote_theme: pages-themes/primer@v0.6.0
+
+# Navigation (optional)
+# Uncomment and customize as needed
+# navigation:
+#   - title: Home
+#     url: /
+#   - title: WSL2 Installation
+#     url: /wsl2-installation
+#   - title: Conda Installation
+#     url: /conda-installation
+
+# Exclude from processing
+exclude:
+  - README.md
+  - .git
+  - .gitignore
