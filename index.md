@@ -2,6 +2,7 @@
 title: Home
 ---
 
+<img src="{{ site.logo }}" alt="SkillsUnfold logo" style="max-height:80px;">
 
 # Installation Guide for Bioinformatics Tools
 
