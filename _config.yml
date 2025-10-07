@@ -22,6 +22,8 @@ plugins:
 # Remote Theme (alternative to theme for GitHub Pages)
 remote_theme: pages-themes/primer@v0.6.0
 
+#logo
+logo: /assets/SUD_logo_25.jpeg
 # Navigation (optional)
 # Uncomment and customize as needed
 # navigation:
