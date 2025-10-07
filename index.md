@@ -2,11 +2,12 @@
 title: Home
 ---
 
-<img src="{{ site.logo }}" alt="SkillsUnfold logo" style="max-height:80px;">
-
 # Installation Guide for Bioinformatics Tools
 
 Welcome to the Installation Guide repository! This site provides comprehensive instructions for installing essential bioinformatics tools.
+
+
+<img src="{{ site.logo }}" alt="SkillsUnfold logo" style="max-height:80px;">
 
 # Installation Guide for Bioinformatics Tools
 
