@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="{{ site.logo }}" alt="SkillsUnfold logo">  
+
 
 
 # Installation Guide for Bioinformatics Tools
