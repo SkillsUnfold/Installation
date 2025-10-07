@@ -2,7 +2,9 @@
 layout: default
 title: Home
 ---
-<img src="{{ site.logo }}" alt="SkillsUnfold logo">
+
+<img src="{{ site.logo }}" alt="SkillsUnfold logo">  
+
 
 # Installation Guide for Bioinformatics Tools
 
@@ -13,7 +15,7 @@ Welcome to the Installation Guide repository! This site provides comprehensive i
 This repository contains detailed installation instructions for:
 
 ### Windows Subsystem for Linux 2 (WSL2)
-Learn how to set up WSL2 on your Windows machine for a Linux development environment.
+[Learn how to set up WSL2 on your Windows machine for a Linux development environment.](wsl_linux_setup.html)
 
 ### Conda Installation
 Step-by-step guide for installing and configuring Conda, a powerful package and environment management system.
